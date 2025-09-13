@@ -38,4 +38,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Happy learning!*
+## ⭐️ Show Your Support
+
+- **Follow me** on [GitHub](https://github.com/OxxOrcus) to stay updated with new projects and learning resources!
+- **Star** this repository if you find it helpful or interesting.
+- **Share** with others who are interested in Machine Learning.
+- **Watch** for updates and new notebooks.
+
+Thank you for visiting, and happy learning!
